@@ -1,0 +1,1 @@
+ez egy footer, a ragadós footer 3. megoldása
